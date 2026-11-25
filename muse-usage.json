@@ -1,8 +1,8 @@
 {
-  "weeklyUsedPercent": 34,
-  "weeklyLeftPercent": 66,
+  "weeklyUsedPercent": 40,
+  "weeklyLeftPercent": 60,
   "resetAtISO": "2026-11-26T18:05:00+09:00",
-  "updatedAtISO": "2026-11-24T09:14:35+09:00",
+  "updatedAtISO": "2026-11-25T09:14:45+09:00",
   "extraUsedPercent": 8,
   "extraLeftPercent": 92,
   "extraTokensLeftText": "約18億",
